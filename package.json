@@ -1,0 +1,30 @@
+{
+  "name": "terapias",
+  "version": "1.0.0",
+  "description": "servicio de terapias online",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carles11/jordi-web-terapias.git"
+  },
+  "keywords": [
+    "terapias",
+    "online",
+    "jordi",
+    "arjo"
+  ],
+  "author": "Carles del Rio Francés",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Carles11/jordi-web-terapias/issues"
+  },
+  "homepage": "https://github.com/Carles11/jordi-web-terapias#readme",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
